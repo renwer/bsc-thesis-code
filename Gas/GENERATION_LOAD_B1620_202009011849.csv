@@ -1,0 +1,10 @@
+*
+*
+*Actual Aggregated Generation Per Type (B1620) Data
+*
+*Document Type,Business Type,Process Type,Time Series ID,Quantity,Curve Type,Resolution,Settlement Date,Settlement Period,Power System Resource  Type,Active Flag,Document ID,Document RevNum
+Actual generation per type,Solar generation,Realised,NGET-EMFIP-AGPT-TS-00003877,343,Sequential fixed size block,PT30M,2014-12-31,30,"Solar",Y,NGET-EMFIP-AGPT-00001088,1
+Actual generation per type,Wind generation,Realised,NGET-EMFIP-AGPT-TS-00003878,68.028,Sequential fixed size block,PT30M,2014-12-31,30,"Wind Offshore",Y,NGET-EMFIP-AGPT-00001088,1
+Actual generation per type,Wind generation,Realised,NGET-EMFIP-AGPT-TS-00003879,628.577,Sequential fixed size block,PT30M,2014-12-31,30,"Wind Onshore",Y,NGET-EMFIP-AGPT-00001088,1
+Actual generation per type,Production,Realised,NGET-EMFIP-AGPT-TS-00003880,0,Sequential fixed size block,PT30M,2014-12-31,30,"Other",Y,NGET-EMFIP-AGPT-00001088,1
+<EOF>
